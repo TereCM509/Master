@@ -20,7 +20,8 @@ int main()   //Funcion principal main
 {   char  Nombre[]="Teresa";   //Declaracion de variables locales
     
     printf("Hola %s \n", Nombre);  //Sentencias de codido
-   
+    FuncionSec();
+     
     return 0; //Para indicar al compilador que todo termino bien.
 }
 
